@@ -49,6 +49,19 @@
         ]
       },
       {
+        "tag": "fungsi_safebot",
+        "patterns": [
+          "Fungsi safebot",
+          "Apa yang bisa kamu lakukan?",
+          "Apa saja yang bisa dilakukan safebot?"
+        ],
+        "responses": [
+          "Kamu bisa bertanya seputar Keamanan dan Kesehatan Kerja Konstruksi terkait APD, risiko, pelatihan, tujuan, penggunaan, dan sebagainya",
+          "Safebot dapat menjawab pertanyaan-pertanyaan seputar APD konstruksi loh!",
+          "Safebot bisa menjawab segala kekepoan kamu terkait APD, risiko, contoh APD, pelatihan, tujuan dan manfaat, dan penggunaaan APD."
+        ]
+      },
+      {
         "tag": "nama",
         "patterns": [
             "nama kamu siapa?",
@@ -412,6 +425,31 @@
             "Ada beberapa cara untuk memastikan penggunaan APD yang benar di lingkungan kerja. Salah satunya adalah dengan menyediakan panduan penggunaan APD yang jelas dan mudah dipahami. Pelatihan yang teratur dan pengawasan yang memadai juga dapat membantu memastikan penggunaan APD yang benar. Pastikan juga pekerja mengetahui pentingnya penggunaan APD dan bahaya yang mungkin terjadi jika APD tidak digunakan dengan benar.",
             "Untuk memastikan penggunaan APD yang benar di lingkungan kerja, penting untuk memiliki kebijakan dan prosedur yang jelas terkait penggunaan APD. Pelatihan dan pengawasan juga harus dilakukan secara teratur. Pastikan pekerja memahami pentingnya penggunaan APD dan bahaya yang mungkin terjadi jika APD tidak digunakan dengan benar. Komunikasi yang terbuka dan transparan antara manajemen dan karyawan juga dapat membantu memastikan penggunaan APD yang benar di lingkungan kerja."
         ]
+        },
+        {
+          "tag": "penjelasan_safetycheck",
+          "patterns": [
+              "Apa itu safetycheck?",
+              "Apakah safetycheck sejenis aplikasi deteksi?",
+              "Safetycheck itu apa?",
+              "Pengertian safetycheck",
+              "Apa yang dimaksud safetycheck?"
+          ],
+          "responses": [
+              "SafetyCheck merupakan sebuah platform berbasis website yang digunakan untuk mendeteksi alat pelindung diri (APD) dan membantu menemukan informasi terkait K3 dengan chatbot responsif."
+          ]
+        },
+        {
+          "tag": "fitur_safetycheck",
+          "patterns": [
+              "Fitur yang dimiliki safetycheck?",
+              "Fitur utama safetycheck",
+              "Apa yang bisa dilakukan safetycheck?"
+          ],
+          "responses": [
+              "SafetyCheck memiliki dua fitur utama, yakni mendeteksi APD dan chatbot responsif terkait APD.",
+              "Dengan SafetyCheck kamu bisa bertanya seputar K3 dan melakukan deteksi APD yang digunakan pekerja."
+          ]
         }
     ]
   }
